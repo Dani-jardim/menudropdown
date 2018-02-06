@@ -1,0 +1,37 @@
+body{ margin:0;}
+
+.menu{
+	height: 50px;
+	background-color:#ff7b25;
+	color: #fff;
+
+}
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+
+}
+
+li{
+	float: left;
+	padding: 0px 20px;
+	line-height: 50px;
+	cursor: pointer;
+}
+
+.menu1{
+
+	height: 50px;
+	display
+}
+
+.menu2{
+
+	position: absolute;
+	width: 150px;
+	height: 200px;
+	background-color:#000;
+	display: none;
+
+}
